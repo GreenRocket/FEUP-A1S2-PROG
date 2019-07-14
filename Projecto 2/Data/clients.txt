@@ -1,0 +1,20 @@
+Rui Manuel
+234987156
+4
+Rua Sem Fim / 200 / 5Esq / 1200‐001 / Lisboa
+10 ; 36 ; 2 ; 1
+504
+::::::::::
+Belmiro Miguel
+111987666
+3
+Avenida dos Grilos / 100 / - / 2300-101 / Coimbra
+100 ; 136 ; 20 ; 1
+1301
+::::::::::
+Antonio Guedes
+111222333
+5
+asd / 4 / asd / asd / asd
+3
+100
